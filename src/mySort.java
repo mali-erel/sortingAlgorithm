@@ -3,7 +3,6 @@ import java.util.Collections;
 
 /* Title		: Homework II - Part I class.
  * Author		: Mehmet Ali EREL
- * ID			: 11260275756
  * Section		: 02
  * Assignment	: 02
  * Description	: This class contains the needed sorting algorithm and answers of asked questions. 
